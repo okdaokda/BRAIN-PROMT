@@ -50,10 +50,10 @@ Ai_Knowledhe_Base/
 ├── index.md/            
 ├── indexes/         
 ├── knowledge/        
-├── personas/         
+├── personas/
 ├── projects/
 ├── README.md
-├── requirements.txt   
+├── requirements.txt
 ├── scripts
 └── sources
 
